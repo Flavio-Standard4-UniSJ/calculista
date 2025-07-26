@@ -4,13 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project allows you to create an account, log in to the app, enter the name of a supermarket, and report purchases made. It asks for the unit price for each product and calculates the total. Finally, it calculates the final purchase price and stores the information in the local database. It allows you to edit and view purchase information, such as the date and time of purchase and the products purchased.
